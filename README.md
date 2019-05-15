@@ -1,4 +1,4 @@
-# Sertifikasi Programming
+# Sertifikasi Programming (using Java)
 Latihan sertifikasi programming:
 1. Menyusun Fungsi, File atau Sumber Daya Pemrograman yang Lain dalam Organisasi yang Rapi 
 2. Menggunakan Struktur Data
