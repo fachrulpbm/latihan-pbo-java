@@ -1,9 +1,9 @@
-# Sertifikasi Programming (using Java)
-Latihan sertifikasi programming:
-1. Menyusun Fungsi, File atau Sumber Daya Pemrograman yang Lain dalam Organisasi yang Rapi 
-2. Menggunakan Struktur Data
-3. Mengimplementasikan Pemrograman Berorientasi Objek
-4. Menggunakan Library atau Komponen Pre-Existing
-5. Menerapkan Akses Basis Data
-6. Membuat Dokumen Kode Program
-7. Melakukan Debugging
+# Latihan PBO (using Java)
+Unit 3 - Mengimplementasikan Pemrograman Berorientasi Objek:
+1. Class & Object
+2. Access Modifier & Non-Access Modifier
+3. Inheritance
+4. Polymorphism
+5. Overloading & Overriding
+6. Abstract & Interface
+7. Package
